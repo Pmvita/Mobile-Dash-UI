@@ -16,6 +16,14 @@ This UI template is highly customizable and serves as an ideal starting point fo
 
 ---
 
+## Screenshots
+<div align="row">
+ <img src="./screenshots/Screenshot1.png" alt="Screenshot 1" width="40%" style="display: inline-block;">
+ <img src="./screenshots/Screenshot2.png" alt="Screenshot 2" width="40%" style="display: inline-block;">
+</div>
+
+---
+
 ## Features
 
 - **Responsive Layout:** Tailored for both iOS and Android devices, ensuring a seamless user experience across platforms.
