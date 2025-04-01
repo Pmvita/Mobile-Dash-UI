@@ -109,5 +109,3 @@ If you have any questions or need help with the project, feel free to reach out 
 6. **Contributing**: Encourages others to contribute and details the process.
 7. **License**: Clarifies the project's license terms.
 8. **Contact**: Provides contact details for support or further questions.
-
-Make sure to modify any placeholders like `your-username` and `your-email@example.com` to match your details, and adjust the sections based on the unique aspects of your project.
